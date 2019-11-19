@@ -557,6 +557,7 @@ testCIEDE2000()
 			ret = EXIT_FAILURE;
 		}
 	}
+//just a test
 	
 	return (ret);
 }
